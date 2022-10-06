@@ -1,38 +1,255 @@
-.App {
-  text-align: center;
+/* estilos del navbar  */
+
+/* .contenedor{
+  width: 100%;
+} */
+.miNavbar {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.texto-logo{
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  padding: 8px 16px;
+  font-family: 'Kanit', sans-serif;
+}
+
+.miNavbar a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  font-size: 22px;
+}
+
+nav{
+  background-color: #010701;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+nav img{
+  height: 70px;
+}
+
+nav ul{
+  display: flex;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+nav li{
+  list-style-type: none;
+  margin-left: 20px;
+  font-size: 18px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Estilos del Hero */
+.hero {
+  background-color:#232D33;
+}
+
+.titulocomponentehero {
+  background-color:#232D33;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+  padding: 10px 10px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+div.center{
+  text-align: center;
+}
+
+div.boton-menu {
+  padding: 50px;
+  border-radius: 10px;
+}
+
+
+/* imagen pagina formulario */
+
+.imagen-textoformulario{
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-items: center;
+  padding-left: 100px;
+}
+
+/* Estilos formulario */
+
+.titulocomponenteformulario{
+  background-color:#232D33;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+  padding: 10px 10px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.formulario {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #232D33;
+}
+
+.formulario form{
+  background-color: #3DB0FA;
+  display:flex;
+  flex-direction: column;
+  width: 80%;
+  padding: 4em;
+  border-radius: 10px;
+}
+
+.formulario form label{
+  margin-bottom: 10px;
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+}
+
+.contact{
+  background-color:#232D33;
+}
+
+/* Enunciados de sección formulario */
+
+.textoFormulario {
+  padding-top: 70px;
+  background-color:#232D33;
+  color: white;
+  text-align: center;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 15px;
+}
+
+/* panel de mensajes */
+
+/* .panel {
+  background-color: #C3C9D1;
+    padding: 1em 2em;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.panel button{
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.area-texto{
+  display: flex;
+  align-items: center;
+}
+
+.area-texto h3{
+  margin-right: 20px;
+}
+
+.panel p{
+  margin-right: 20px;
+} */
+
+.tamaño-image{
+  width: 100%;
+  height: 800px;
+}
+
+/* estilos del footer */
+
+.fontawesome i{
+  font-size: 32px;
+}
+
+.columnasfooter-brand p{
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
+}
+
+.columnasfooter p{
+  font-family: 'Kanit', sans-serif;
+}
+
+.columnasfooter a{
+  font-family: 'Kanit', sans-serif;
+  font-weight: 400;
+}
+
+/* estilos de sección ubicación */
+
+.map-container{
+  height: 100vh; 
+  width: 100%;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  background-color:#232D33;
+  
+}
+
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+  height: 600px;
+  width: 600px;
+}
+
+.map-descr{
+  padding: 16px 0px;
+  background-color:#232D33;
+  color: white;
+  margin-top: 20px;
+}
+
+.descr {
+  margin-top: 110px;
+  font-family: 'Ubuntu', sans-serif;
+  background-color:#232D33;
+}
+
+.title-ubicacion{
+  font-family: 'Ubuntu', sans-serif;
+  background-color:#232D33;
+  color: white;
+  
+}
+
+/* Estilos menú */
+
+.tarjeta{
+  width: 250px;
+  padding: 2em 1em;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px 10px;
+}
+
+.contenedor-platos{
+  display: flex;
+  justify-content: center;
+}
+
+.texto-tarjetas{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.parrafo-menu{
+  font-family: 'Kanit', sans-serif;
 }
