@@ -70,13 +70,13 @@ const Formulario = () => {
                     <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src={contacto1} alt="..." className='tamaño-image' />
+                                <img src={contacto1} alt="..." className='tamaño-image-comp-form' />
                             </div>
                             <div className="carousel-item">
-                                <img src={contacto2} alt="..." className='tamaño-image' />
+                                <img src={contacto2} alt="..." className='tamaño-image-comp-form' />
                             </div>
                             <div className="carousel-item">
-                                <img src={contacto3} alt="..." className='tamaño-image' />
+                                <img src={contacto3} alt="..." className='tamaño-image-comp-form' />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -116,7 +116,7 @@ const Formulario = () => {
 
                         <label htmlFor='content'>Mensaje:</label>
                         <textarea
-                            className="form-control mb-3"
+                            className="area-texto-form form-control mb-5"
                             type="text"
                             name="content"
                             id="content"
