@@ -12,20 +12,20 @@
   
 }
 
-.texto-logo{
+.texto-logo {
   align-items: center;
   padding: 8px 16px;
   font-family: 'Kanit', sans-serif;
 }
 
-.miNavbar a{
+.miNavbar a {
   text-decoration: none;
   color: white;
   font-family: 'Kanit', sans-serif;
   font-size: 22px;
 }
 
-nav{
+nav {
   background-color: #010701;
   display: flex;
   justify-content: space-between;
@@ -33,16 +33,16 @@ nav{
   padding: 8px 16px;
 }
 
-nav img{
+nav img {
   height: 70px;
 }
 
-nav ul{
+nav ul {
   display: flex;
   color: white;
 }
 
-nav li{
+nav li {
   list-style-type: none;
   margin-left: 20px;
   font-size: 18px;
@@ -63,7 +63,7 @@ nav li{
   font-family: 'Ubuntu', sans-serif;
 }
 
-div.center{
+div.center {
   text-align: center;
 }
 
@@ -75,7 +75,7 @@ div.boton-menu {
 
 /* imagen pagina formulario */
 
-.imagen-textoformulario{
+.imagen-textoformulario {
   height: 500px;
   background-position: center;
   background-size: cover;
@@ -86,7 +86,7 @@ div.boton-menu {
 
 /* Estilos formulario */
 
-.titulocomponenteformulario{
+.titulocomponenteformulario {
   background-color:#232D33;
   color: white;
   text-align: center;
@@ -103,7 +103,7 @@ div.boton-menu {
   background-color: #232D33;
 }
 
-.formulario form{
+.formulario form { 
   background-color: #050B0E;
   display:flex;
   flex-direction: column;
@@ -113,14 +113,14 @@ div.boton-menu {
   border-radius: 10px;
 }
 
-.formulario form label{
+.formulario form label {
   margin-bottom: 10px;
   color: white;
   font-family: 'Kanit', sans-serif;
   font-size: 20px;
 }
 
-.contact{
+.contact {
   background-color:#232D33;
 }
 
@@ -135,11 +135,11 @@ div.boton-menu {
   font-size: 15px;
 }
 
-.area-texto-form{
+.area-texto-form {
   height: 500px;
 }
 
-.tamaño-image-comp-form{
+.tamaño-image-comp-form {
   width: 100%;
   height: 800px;
 }
@@ -177,18 +177,18 @@ div.boton-menu {
   margin-right: 20px;
 } */
 
-.tamaño-image{
+.tamaño-image {
   width: 100%;
   height: 600px;
 }
 
 /* estilos del footer */
 
-.fontawesome i{
+.fontawesome i {
   font-size: 32px;
 }
 
-.columnasfooter-brand p{
+.columnasfooter-brand p {
   font-family: 'Kanit', sans-serif;
   font-weight: bold;
 }
@@ -197,14 +197,14 @@ div.boton-menu {
   font-family: 'Kanit', sans-serif;
 }
 
-.columnasfooter a{
+.columnasfooter a {
   font-family: 'Kanit', sans-serif;
   font-weight: 400;
 }
 
 /* estilos de sección ubicación */
 
-.map-container{
+.map-container  {
   height: 100vh; 
   width: 100%;
   display: flex; 
@@ -221,7 +221,7 @@ div.boton-menu {
   width: 600px;
 }
 
-.map-descr{
+.map-descr {
   padding: 16px 0px;
   background-color:#232D33;
   color: white;
@@ -243,7 +243,7 @@ div.boton-menu {
 
 /* Estilos menú */
 
-.tarjeta{
+.tarjeta {
   width: 250px;
   padding: 2em 1em;
   border: 1px solid black;
@@ -251,15 +251,15 @@ div.boton-menu {
   margin: 10px 10px;
 }
 
-.contenedor-platos{
+.contenedor-platos {
   display: flex;
   justify-content: center;
 }
 
-.texto-tarjetas{
+.texto-tarjetas {
   font-family: 'Ubuntu', sans-serif;
 }
 
-.parrafo-menu{
+.parrafo-menu {
   font-family: 'Kanit', sans-serif;
 }
