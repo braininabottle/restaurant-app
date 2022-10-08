@@ -22,23 +22,23 @@ En esta app encontrarás lo siguiente 🧾	 :
 <h1> Tecnologias usadas 🛠️</h1>
 <br>
 <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" style="max-width: 100%;"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" height="48" width="48"/>
     </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" style="max-width: 100%;"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="48" width="48"/>
     </a>
-    <a>
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="max-width: 100%;" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="48" width="48" />
     </a>
-    <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" style="max-width: 100%;" />
+    <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" height="48" width="48" />
     </a>
-    <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" style="max-width: 100%;" />
+    <a href="https://reactjs.org/docs/getting-started.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="48" width="48"/>
     </a>
-    <a>
-        <img src="https://img.icons8.com/color/480/firebase.png" style="max-width: 100%;"/>
+    <a href="https://firebase.google.com/docs">
+        <img src="https://img.icons8.com/color/480/firebase.png" height="48" width="48"/>
     </a>
 </p>
 <br>
