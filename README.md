@@ -40,6 +40,21 @@ En esta app encontrarás lo siguiente 🧾	 :
     <a href="https://firebase.google.com/docs">
         <img src="https://img.icons8.com/color/480/firebase.png" height="48" width="48"/>
     </a>
+     <a href="https://nodejs.org/es/docs/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png" height="48" width="48"/>
+    </a>
+    <a href="https://docs.npmjs.com/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9vC2g2zT7TKq_T2hgXPm50Kmg8lrwDSZGcujUf21JQ&s" height="48" width="48"/>
+    </a>
+     <a href="https://www.netlify.com/">
+        <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" height="48" width="48"/>
+    </a>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCs7_EKbgALLq-gRSjih3SyFRSRX7uVa9Xzag8G_JIIQ&s" height="48" width="48"/>
+    </a>
+      <a href="https://mui.com/material-ui/getting-started/installation/">
+        <img src="https://mui.com/static/logo.png" height="48" width="48"/>
+    </a>
 </p>
 <br>
 <br>
