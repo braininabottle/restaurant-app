@@ -3,9 +3,17 @@
 <br>
 <h1>Introducción</h1>
 
+<<<<<<< HEAD
 En esta app encontrarás lo siguiente 🧾	 :
 1. Link del restaurant: https://gorgeous-klepon-76fac9.netlify.app
 2. Una pagina principal con información sobre la cultura del Ramen y un boton que te dirige directamente al menú
+=======
+# # Link de la aplicación: https://gorgeous-klepon-76fac9.netlify.app
+
+
+En esta app encontrarás lo siguiente 🧾	 :
+1. Una pagina principal con información sobre la cultura del Ramen y un boton que te dirige directamente al menú
+>>>>>>> a2bc899286e27a4ac6acf0b3645b3e8b3835b124
 del restaurant.
 3. La carta donde puedes ver los distintos tipos de platos, bebestibles y postres. 🧋🫕
 4. Sección de contacto para dejar comentarios sobre el restaurant que van directamente a la administracción.
