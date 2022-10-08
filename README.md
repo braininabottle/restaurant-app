@@ -15,7 +15,7 @@ En esta app encontrarás lo siguiente 🧾	 :
 <br>
 <h1>Estado del proyecto </h1>
 
-<h2 style="color: yellow">Terminado 👌.</h2>
+<span style="color: yellow">Terminado 👌.</span>
 
 <br>
 <br>
